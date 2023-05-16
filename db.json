@@ -2,7 +2,43 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "mobile",
+      "price": "$100",
+      "rating" : "3.5",
+      "image" : "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description" : "5 G mobile"
+    },
+    {
+      "id": 2,
+      "name": "mobile",
+      "price": "$100",
+      "rating" : "3.5",
+      "image" : "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description" : "5 G mobile"
+    },
+    {
+      "id": 3,
+      "name": "mobile",
+      "price": "$100",
+      "rating" : "3.5",
+      "image" : "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description" : "5 G mobile"
+    },
+    {
+      "id": 4,
+      "name": "mobile",
+      "price": "$100",
+      "rating" : "3.5",
+      "image" : "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description" : "5 G mobile"
+    },
+    {
+      "id": 5,
+      "name": "mobile",
+      "price": "$100",
+      "rating" : "3.5",
+      "image" : "https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description" : "5 G mobile"
     }
   ],
   "profile": {
